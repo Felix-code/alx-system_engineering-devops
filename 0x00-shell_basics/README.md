@@ -5,4 +5,5 @@
 * A script that display current directory content including hidden files.
 * A script that displays content of a directory including group name in numericall order.
 * A script to create a directory my_first_directory in the /tmp directory
-* A script to move the file betty into my_first_directory in the /tmp directory
+* A script to move the file betty into my_first_directory in the /tmp directoryy.
+* A script to delete the file betty from the directory my_first_directory in the /tmp directory.
