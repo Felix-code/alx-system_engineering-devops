@@ -8,4 +8,5 @@
 * A script to move the file betty into my_first_directory in the /tmp directoryy.
 * A script to delete the file betty from the directory my_first_directory in the /tmp directory.
 * A script to delete the directory my_first_directory in the /tmp directory.
-* A script that move that changes the working directory to the previous one
+* A script that move that changes the working directory to the previous one.
+* A script to list all files 
