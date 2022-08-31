@@ -7,3 +7,4 @@
 * A script to create a directory my_first_directory in the /tmp directory
 * A script to move the file betty into my_first_directory in the /tmp directoryy.
 * A script to delete the file betty from the directory my_first_directory in the /tmp directory.
+* A script to delete the directory my_first_directory in the /tmp directory.
