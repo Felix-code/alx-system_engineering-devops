@@ -8,4 +8,5 @@
 - A script that grants execute permission to the owner and group.
 - A script that grants execute permission to all.
 - A script that grants only other users the permission to read, write and execute.
-- A script that grants full permission to user, read and execute to group, write and execute to other users
+- A script that grants full permission to user, read and execute to group, write and execute to other users.
+- A script that uses the mode of another file
