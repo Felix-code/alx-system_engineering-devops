@@ -6,3 +6,4 @@
 - A script that creates an empty file hello.
 - A script that adds execute permission to the owner of the file
 - A script that grants execute permission to the owner and group.
+- A script that grants execute permission to all.
