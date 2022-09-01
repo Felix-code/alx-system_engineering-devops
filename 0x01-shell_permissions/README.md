@@ -7,3 +7,4 @@
 - A script that adds execute permission to the owner of the file
 - A script that grants execute permission to the owner and group.
 - A script that grants execute permission to all.
+- A script that grants only other users the permission to read, write and execute.
