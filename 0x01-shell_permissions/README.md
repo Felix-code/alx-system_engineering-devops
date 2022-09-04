@@ -10,4 +10,4 @@
 - A script that grants only other users the permission to read, write and execute.
 - A script that grants full permission to user, read and execute to group, write and execute to other users.
 - A script that uses the mode of another file
--A script that add execute permission to all sub directories in the current directory
+-A script that add execute permission to all sub directories in the current directory.
