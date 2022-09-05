@@ -2,4 +2,5 @@
 - A script that prints a confused smiley.
 - A script that displays the file /etc/passwd
 - A script that displays 2 files
-- A script to display the last 10 lines of file /etc/passwd
+- A script to display the last 10 lines of file /etc/passwd.
+- A script to display the first 10 lines of file /etc/passwd
