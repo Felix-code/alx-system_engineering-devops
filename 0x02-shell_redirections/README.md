@@ -1,3 +1,4 @@
 - A script that prints hello world followed by a new line to the standard output
 - A script that prints a confused smiley.
 - A script that displays the file /etc/passwd
+- A script that displays 2 files
