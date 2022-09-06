@@ -1,2 +1,2 @@
 #!/bin/bash
-cat mukah | sort | uniq -u
+sort < mukah |uniq -u > mukah_sorted
