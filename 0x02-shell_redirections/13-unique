@@ -1,0 +1,2 @@
+#!/bin/bash
+cat mukah | sort | uniq -u
