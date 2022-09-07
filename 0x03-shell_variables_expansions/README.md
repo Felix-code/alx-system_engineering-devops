@@ -6,4 +6,5 @@
 - A script that lists environment variables.
 - A script that lists all local variables.
 - A script to create local variable
-- A script that creates global variable. 
+- A script that creates global variable.
+- A scripts that add 128 to the value stored in variable TRUEKNOWLEDGE 
