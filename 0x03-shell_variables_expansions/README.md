@@ -8,4 +8,5 @@
 - A script to create local variable
 - A script that creates global variable.
 - A scripts that add 128 to the value stored in variable TRUEKNOWLEDGE.
-- A script that prints the result of power and divide. 
+- A script that prints the result of power and divide.
+- A script that displays the result of BREATH to the power of LOVE 
