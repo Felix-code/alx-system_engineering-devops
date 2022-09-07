@@ -4,3 +4,4 @@
 - A script that adds /action to $PATH.
 - A script that prints the number of directories in the $PATH
 - A script that lists environment variables.
+- A script that lists all local variables 
