@@ -9,4 +9,5 @@
 - A script that creates global variable.
 - A scripts that add 128 to the value stored in variable TRUEKNOWLEDGE.
 - A script that prints the result of power and divide.
-- A script that displays the result of BREATH to the power of LOVE 
+- A script that displays the result of BREATH to the power of LOVE.
+- A script that converts a number from base 2 to base 10. 
