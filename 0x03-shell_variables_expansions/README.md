@@ -5,4 +5,5 @@
 - A script that prints the number of directories in the $PATH
 - A script that lists environment variables.
 - A script that lists all local variables.
-- A script to create local variable 
+- A script to create local variable
+- A script that creates global variable. 
